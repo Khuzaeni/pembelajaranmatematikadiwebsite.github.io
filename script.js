@@ -18,7 +18,7 @@ let data = [
         'id': 'a1',
         'title': 'Sifat-sifat Eksponen',
         'name': 'Sifat-sifat Eksponen.mp4',
-        'duration': '27:55',
+        'duration': '12:47',
     },
     {
         'id': 'a2',
@@ -30,14 +30,14 @@ let data = [
         'id': 'a3',
         'title': 'Pertidaksamaan Eksponen',
         'name': 'Pertidaksamaan Eksponen.mp4',
-        'duration': '39:50',
+        'duration': '18:43',
     },
 
     {
         'id': 'a4',
         'title': 'Konsep Dasar dan Sifat-sifat Logaritma',
         'name': 'Konsep Dasar dan Sifat-sifat Logaritma.mp4',
-        'duration': '22:51',
+        'duration': '23:37',
     },
     {
         'id': 'a5',
@@ -49,13 +49,13 @@ let data = [
         'id': 'a6',
         'title': 'Persamaan Logaritma',
         'name': 'Persamaan Logaritma.mp4',
-        'duration': '19:46',
+        'duration': '19:45',
     },
     {
         'id': 'a7',
         'title': 'Pertidaksamaan Logaritma',
         'name': 'Pertidaksamaan Logaritma.mp4',
-        'duration': '21:43',
+        'duration': '20:35',
     },
     {
         'id': 'a8',
